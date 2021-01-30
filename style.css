@@ -120,6 +120,6 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
-#transaction-area{
+#confirming-page{
     display: none;
 }
